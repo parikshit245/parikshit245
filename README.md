@@ -1,4 +1,4 @@
-![logo](https://github.com/parikshit245/parikshit245/blob/main/Banner.png)
+![logo](https://github.com/parikshit245/parikshit245/blob/main/profile%20banner.png)
 <h1 align="center">Hi 👋, I'm Parikshit Rajpurohit</h1>
 <h3 align="center">A passionate Computer Engineer from India</h3>
 <img
