@@ -254,3 +254,6 @@
     alt="parikshit245"
   />
 </p>
+
+
+![snake gif](https://github.com/parikshit245/parikshit245/blob/output/github-snake-dark.svg)
